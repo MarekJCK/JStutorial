@@ -1,0 +1,29 @@
+{
+  "name": "JStutorial",
+  "version": "1.0.0",
+  "description": "This is a basic project structure for any kind of application using Gulp build system.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarekJCK/JStutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarekJCK/JStutorial/issues"
+  },
+  "homepage": "https://github.com/MarekJCK/JStutorial",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-sass": "^2.1.0",
+    "gulp-watch": "^4.3.5",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
+}
